@@ -1,3 +1,7 @@
 #use crontab to run the script (Simple Date) on centOS
 #Eventually my first script
 #not Commiting from LAB PC manually writing on the Github
+
+#!/bin/bash
+echo  $(date) 
+echo " ----------- IS the current date"
