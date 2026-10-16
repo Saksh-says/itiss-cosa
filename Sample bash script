@@ -5,3 +5,5 @@
 #!/bin/bash
 echo  $(date) 
 echo " ----------- IS the current date"
+
+# new update to file to pull the changes
